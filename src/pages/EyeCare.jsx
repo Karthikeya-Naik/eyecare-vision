@@ -51,7 +51,7 @@ const EyeCare = () => {
             </div>
             <div className="border-b pb-4">
               <h3 className="text-lg font-medium text-gray-900">Is LASIK safe?</h3>
-              <p className="text-gray-600 mt-1">LASIK has a 96% patient satisfaction rate. Dr. Varun will evaluate your candidacy during a consultation.</p>
+              <p className="text-gray-600 mt-1">LASIK has a 96% patient satisfaction rate. Dr. Rahul will evaluate your candidacy during a consultation.</p>
             </div>
           </div>
         </div>

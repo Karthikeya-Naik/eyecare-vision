@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import doctorvarun from '../../assets/images/Doctor-Varun.jpg';
+import doctor from '../../assets/images/Doctor.webp';
 
 const DoctorProfile = () => {
   return (
@@ -21,8 +21,8 @@ const DoctorProfile = () => {
           viewport={{ once: true }}
         >
           <img 
-            src={doctorvarun}
-            alt="Dr. Varun Kanth" 
+            src={doctor}
+            alt="Dr. Rahul" 
             className="w-full h-full object-cover"
           />
         </motion.div>
@@ -35,13 +35,13 @@ const DoctorProfile = () => {
           transition={{ duration: 0.7, delay: 0.3 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-2xl font-bold text-[#1E6B8C] mb-2">Dr. Varunkanth</h2>
+          <h2 className="text-2xl font-bold text-[#1E6B8C] mb-2">Dr. Rahul</h2>
           <p className="text-[#4EADC5] mb-4">MBBS, MD (Ophthalmology)</p>
           
           <div className="mb-6">
-            <h3 className="text-lg font-semibold text-[#0F3C5D] mb-2">About Dr. Varun</h3>
+            <h3 className="text-lg font-semibold text-[#0F3C5D] mb-2">About Dr. Rahul</h3>
             <p className="text-[#374151]">
-              With over 12 years of experience, Dr. Varun specializes in cataract surgery, LASIK, and pediatric ophthalmology. 
+              With over 12 years of experience, Dr. Rahul specializes in cataract surgery, LASIK, and pediatric ophthalmology. 
               He is committed to ethical practice and patient-centric care.
             </p>
           </div>

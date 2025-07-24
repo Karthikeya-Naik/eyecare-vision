@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'http://localhost/eyecare-vision/api';
+export const API_BASE_URL = 'https://eyecare.webhostdevs.com/api';
 
 export const TIME_SLOTS = [
   { start: '18:00', end: '18:30' },
@@ -42,7 +42,7 @@ export const TESTIMONIALS = [
     id: 1,
     name: 'Rahul Sharma',
     role: 'Software Engineer',
-    content: 'Dr. Varun provided excellent care and explained everything clearly. My vision has improved significantly!',
+    content: 'Dr. Rahul provided excellent care and explained everything clearly. My vision has improved significantly!',
     rating: 5,
   },
   // Add more testimonials as needed

@@ -25,7 +25,7 @@ const Home = () => {
           <div className="container text-center">
             <h2 className="text-3xl font-bold mb-6">Ready for Your Eye Checkup?</h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto">
-              Book your appointment today and experience professional eye care with Dr. Rajesh Kumar.
+              Book your appointment today and experience professional eye care with Dr. Rahul.
             </p>
             <a
               href="/booking"

@@ -33,7 +33,7 @@ const AboutClinic = () => {
                   <Stethoscope className="w-6 h-6 text-blue-600" />
                 </div>
                 <div>
-                  <p className="font-bold text-lg">Dr. Varunkanth</p>
+                  <p className="font-bold text-lg">Dr. Rahul</p>
                   <p className="text-sm text-gray-600">Chief Ophthalmologist</p>
                 </div>
               </div>
@@ -53,7 +53,7 @@ const AboutClinic = () => {
               technology to diagnose and treat various eye conditions.
             </p>
             <p className="text-gray-600 mb-8">
-              Dr. Rajesh Kumar and his team of specialists are committed to delivering personalized 
+              Dr. Rahul and his team of specialists are committed to delivering personalized 
               care tailored to each patient's unique needs, ensuring optimal vision health outcomes.
             </p>
 

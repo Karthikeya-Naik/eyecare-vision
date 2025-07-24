@@ -30,7 +30,7 @@ const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="mt-6 max-w-2xl mx-auto text-xl text-blue-100"
           >
-            Comprehensive eye care services provided by Dr. Rajesh Kumar and his team of specialists.
+            Comprehensive eye care services provided by Dr. Rahul and his team of specialists.
           </motion.p>
 
           <motion.div
